@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Prakash V S and I made a website with price cards using React. It's from the Guvi-Zen class Roadmap, specifically React: Day-2 Task. This project is my first time working with React!</p>
+<p align="left">My name is Megha Bhatiya and I made a website with price cards using React. It's from the Guvi-Zen class Roadmap, specifically React: Day-2 Task. This project is my first time working with React!</p>
 
 ###
 
